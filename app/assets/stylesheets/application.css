@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+ .container {
+  width: 600px;
+  margin: 0 auto;
+ }
+
+ .list {
+  list-style: none;
+  text-decoration: none !important;
+ }
